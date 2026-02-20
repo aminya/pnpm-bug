@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "astro": "^4.10.2"
+    "astro": "^5.15.9"
   }
 }
